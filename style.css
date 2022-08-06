@@ -1,0 +1,39 @@
+.header{
+    color: black;
+    font-size: 25px;
+    font-family: Forte;
+}
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+    font-family: Forte;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 162, 162);
+    line-height: 3;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+    font-family: Forte;  
+}
